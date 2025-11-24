@@ -1,0 +1,201 @@
+job_role,city,experience_years,experience_level,skills,salary_inr,education,company_size
+Data Scientist,Mumbai,10,Lead,"Java, JavaScript, SQL, Python",2236603,Masters,Large
+Frontend Developer,Delhi,4,Senior,"AWS, Java, JavaScript, SQL",1358799,Bachelors,Medium
+Data Scientist,Mumbai,8,Lead,"SQL, JavaScript, Python, React",1843897,Bachelors,Startup
+Data Scientist,Delhi,8,Lead,"React, JavaScript, AWS, SQL",1950164,Bachelors,Startup
+Software Engineer,Delhi,9,Lead,"JavaScript, AWS, Python",2036930,Masters,Startup
+Data Scientist,Delhi,7,Lead,"Python, Java, AWS, JavaScript",1893955,Bachelors,Large
+Frontend Developer,Delhi,6,Senior,"AWS, SQL, JavaScript, React",1426802,Masters,Medium
+Backend Developer,Hyderabad,9,Lead,"Java, React",1570318,Bachelors,Medium
+Backend Developer,Bangalore,2,Junior,"SQL, Python, React, Java",1192356,Bachelors,Startup
+Frontend Developer,Mumbai,1,Junior,"Java, AWS, JavaScript, Python",951873,Masters,Large
+Frontend Developer,Mumbai,9,Lead,"React, JavaScript",1951377,Masters,Large
+Frontend Developer,Pune,2,Junior,"Java, AWS",828655,Masters,Large
+Software Engineer,Pune,1,Junior,"React, Java, JavaScript, SQL",830045,Masters,Startup
+Frontend Developer,Hyderabad,6,Senior,"Python, JavaScript",1111359,Masters,Large
+Data Scientist,Hyderabad,7,Lead,"Java, AWS",1559057,Masters,Startup
+Data Scientist,Delhi,9,Lead,"Python, JavaScript",2008093,Masters,Startup
+Frontend Developer,Delhi,1,Junior,"JavaScript, AWS, Python",949818,Masters,Medium
+Data Scientist,Pune,1,Junior,"AWS, Python",1051910,Bachelors,Large
+Data Scientist,Mumbai,1,Junior,"Java, JavaScript, React, SQL",1355267,Bachelors,Medium
+Data Scientist,Mumbai,9,Lead,"AWS, JavaScript",2082288,Masters,Startup
+Data Scientist,Hyderabad,9,Lead,"SQL, Java",1622551,Masters,Medium
+Frontend Developer,Bangalore,9,Lead,"AWS, Java, SQL, React",1757837,Masters,Medium
+Frontend Developer,Delhi,8,Lead,"Java, React, AWS, JavaScript",1740749,Masters,Medium
+Software Engineer,Delhi,1,Junior,"JavaScript, React, Java",1179714,Masters,Large
+Data Scientist,Pune,4,Senior,"React, SQL",1208635,Bachelors,Medium
+Backend Developer,Mumbai,8,Lead,"Java, AWS, React",1987216,Bachelors,Medium
+Software Engineer,Delhi,6,Senior,"Python, AWS, React",1605493,Masters,Startup
+Data Scientist,Mumbai,4,Senior,"AWS, Java, Python",1730490,Bachelors,Startup
+Data Scientist,Delhi,3,Junior,"Java, SQL",1540236,Masters,Medium
+Data Scientist,Delhi,3,Junior,"Python, AWS",1306168,Bachelors,Startup
+Frontend Developer,Delhi,2,Junior,"AWS, Python, JavaScript",1147556,Masters,Startup
+Data Scientist,Hyderabad,4,Senior,"React, Java, AWS",1334303,Masters,Large
+Data Scientist,Hyderabad,1,Junior,"Java, React",935059,Masters,Medium
+Frontend Developer,Mumbai,6,Senior,"JavaScript, Python, AWS",1511907,Bachelors,Startup
+Software Engineer,Bangalore,1,Junior,"Python, React, AWS, SQL",1056691,Bachelors,Medium
+Frontend Developer,Pune,5,Senior,"React, SQL",1176515,Masters,Startup
+Software Engineer,Delhi,7,Lead,"AWS, SQL, Java, JavaScript",1578861,Bachelors,Startup
+Frontend Developer,Bangalore,6,Senior,"React, AWS, Python, Java",1402922,Masters,Startup
+Frontend Developer,Hyderabad,7,Lead,"JavaScript, AWS",1168865,Masters,Startup
+Frontend Developer,Hyderabad,8,Lead,"React, AWS, SQL, Java",1388398,Masters,Large
+Frontend Developer,Pune,5,Senior,"AWS, SQL, JavaScript",1152779,Masters,Large
+Backend Developer,Hyderabad,8,Lead,"SQL, AWS, JavaScript",1457721,Masters,Large
+Data Scientist,Bangalore,10,Lead,"Java, React, SQL, AWS",2015049,Bachelors,Medium
+Data Scientist,Delhi,2,Junior,"JavaScript, React, Python, AWS",1244663,Masters,Medium
+Data Scientist,Bangalore,4,Senior,"Java, React",1520891,Masters,Startup
+Data Scientist,Hyderabad,5,Senior,"JavaScript, Python",1269857,Masters,Medium
+Software Engineer,Delhi,10,Lead,"AWS, SQL, Python",1873855,Masters,Startup
+Frontend Developer,Bangalore,4,Senior,"Java, React, JavaScript",1186400,Masters,Medium
+Backend Developer,Delhi,7,Lead,"Java, React, JavaScript, SQL",1774260,Bachelors,Large
+Software Engineer,Mumbai,7,Lead,"React, JavaScript, Python, AWS",1826573,Masters,Large
+Software Engineer,Delhi,2,Junior,"SQL, Java, JavaScript",1117970,Bachelors,Medium
+Software Engineer,Mumbai,2,Junior,"Java, JavaScript, SQL, AWS",1149604,Masters,Large
+Frontend Developer,Mumbai,4,Senior,"AWS, React",1422701,Bachelors,Startup
+Data Scientist,Pune,5,Senior,"SQL, AWS",1289527,Bachelors,Large
+Software Engineer,Hyderabad,4,Senior,"React, JavaScript, Python, Java",1025778,Bachelors,Startup
+Data Scientist,Mumbai,7,Lead,"SQL, React, Java",1749360,Bachelors,Medium
+Backend Developer,Hyderabad,2,Junior,"Python, SQL",907453,Masters,Large
+Software Engineer,Hyderabad,5,Senior,"Python, AWS, React, Java",1281257,Masters,Medium
+Data Scientist,Bangalore,5,Senior,"SQL, React, JavaScript, Python",1691883,Bachelors,Startup
+Data Scientist,Hyderabad,9,Lead,"Python, SQL",1594866,Masters,Medium
+Data Scientist,Hyderabad,3,Junior,"JavaScript, React, AWS",1126425,Masters,Large
+Data Scientist,Bangalore,7,Lead,"JavaScript, React, AWS",1828166,Masters,Medium
+Data Scientist,Pune,10,Lead,"React, Python, Java, JavaScript",1795975,Masters,Large
+Frontend Developer,Pune,9,Lead,"SQL, Java, JavaScript, Python",1447666,Masters,Medium
+Software Engineer,Bangalore,3,Junior,"AWS, Python, Java",1221371,Bachelors,Startup
+Backend Developer,Pune,1,Junior,"SQL, React, Java, Python",890218,Masters,Startup
+Software Engineer,Bangalore,7,Lead,"Python, Java, AWS",1534022,Masters,Medium
+Frontend Developer,Delhi,5,Senior,"SQL, Java",1460040,Masters,Startup
+Software Engineer,Hyderabad,1,Junior,"Python, React, JavaScript, Java",887909,Bachelors,Large
+Frontend Developer,Delhi,7,Lead,"Python, AWS",1592651,Masters,Startup
+Backend Developer,Mumbai,7,Lead,"Java, React, Python, JavaScript",1764397,Bachelors,Medium
+Backend Developer,Pune,8,Lead,"React, SQL, JavaScript",1400585,Masters,Startup
+Frontend Developer,Mumbai,10,Lead,"Python, Java, React",2031637,Bachelors,Startup
+Backend Developer,Delhi,2,Junior,"Python, AWS",1024744,Masters,Large
+Frontend Developer,Delhi,6,Senior,"JavaScript, Python, Java, AWS",1520526,Masters,Large
+Backend Developer,Hyderabad,7,Lead,"SQL, React, JavaScript",1334868,Masters,Large
+Backend Developer,Delhi,1,Junior,"React, SQL",962360,Masters,Medium
+Frontend Developer,Mumbai,2,Junior,"React, JavaScript",1177046,Masters,Large
+Backend Developer,Pune,1,Junior,"JavaScript, SQL",849387,Bachelors,Startup
+Data Scientist,Mumbai,10,Lead,"Java, Python, JavaScript, SQL",2175533,Masters,Startup
+Software Engineer,Hyderabad,10,Lead,"React, Java, JavaScript, Python",1615270,Bachelors,Startup
+Frontend Developer,Bangalore,1,Junior,"Java, AWS, SQL, Python",942984,Masters,Large
+Data Scientist,Delhi,7,Lead,"Python, Java, JavaScript",1998643,Bachelors,Large
+Data Scientist,Mumbai,8,Lead,"JavaScript, React, AWS, SQL",1871822,Masters,Medium
+Data Scientist,Hyderabad,4,Senior,"AWS, SQL, React, Java",1136100,Bachelors,Large
+Backend Developer,Hyderabad,9,Lead,"Java, JavaScript, Python, AWS",1427874,Bachelors,Startup
+Backend Developer,Hyderabad,5,Senior,"JavaScript, Python",1068615,Masters,Startup
+Software Engineer,Pune,1,Junior,"React, Python, AWS",966581,Masters,Large
+Backend Developer,Delhi,2,Junior,"React, AWS, Java",1165787,Bachelors,Medium
+Data Scientist,Pune,9,Lead,"SQL, JavaScript, Python, Java",1586333,Bachelors,Medium
+Software Engineer,Bangalore,6,Senior,"JavaScript, SQL, Java",1452066,Bachelors,Startup
+Software Engineer,Delhi,8,Lead,"JavaScript, Python, React, AWS",1956831,Bachelors,Medium
+Frontend Developer,Bangalore,10,Lead,"AWS, JavaScript, Python, React",1663942,Bachelors,Startup
+Frontend Developer,Hyderabad,7,Lead,"React, Python, JavaScript",1353611,Bachelors,Startup
+Software Engineer,Pune,1,Junior,"AWS, React, Python, SQL",843065,Bachelors,Startup
+Software Engineer,Hyderabad,4,Senior,"React, AWS, Python",1135146,Bachelors,Medium
+Data Scientist,Bangalore,3,Junior,"AWS, JavaScript, Java, Python",1234589,Masters,Medium
+Software Engineer,Mumbai,9,Lead,"Java, JavaScript",1953491,Masters,Large
+Data Scientist,Bangalore,10,Lead,"JavaScript, Python, SQL",2117714,Masters,Startup
+Software Engineer,Mumbai,1,Junior,"React, SQL",1185754,Masters,Medium
+Backend Developer,Delhi,1,Junior,"Java, Python, AWS",1029612,Masters,Startup
+Frontend Developer,Pune,1,Junior,"Python, SQL, React",792134,Bachelors,Large
+Data Scientist,Pune,5,Senior,"Java, SQL, JavaScript",1317729,Bachelors,Large
+Data Scientist,Delhi,4,Senior,"Python, React, AWS",1508408,Masters,Large
+Frontend Developer,Delhi,10,Lead,"React, JavaScript",1923942,Bachelors,Medium
+Software Engineer,Pune,2,Junior,"SQL, AWS",1025822,Bachelors,Startup
+Data Scientist,Delhi,6,Senior,"Java, AWS, Python, SQL",1670596,Bachelors,Startup
+Data Scientist,Bangalore,4,Senior,"SQL, AWS, Java",1512300,Masters,Medium
+Software Engineer,Bangalore,7,Lead,"React, JavaScript",1652387,Bachelors,Startup
+Backend Developer,Bangalore,7,Lead,"React, JavaScript, SQL",1601826,Bachelors,Medium
+Software Engineer,Delhi,9,Lead,"SQL, React",2030595,Bachelors,Startup
+Software Engineer,Pune,10,Lead,"Java, Python, JavaScript, React",1578503,Bachelors,Startup
+Frontend Developer,Pune,6,Senior,"AWS, React, JavaScript, Python",1151865,Masters,Large
+Software Engineer,Mumbai,3,Junior,"Java, JavaScript, SQL",1247116,Bachelors,Large
+Backend Developer,Pune,2,Junior,"AWS, Python, JavaScript, SQL",826449,Bachelors,Large
+Data Scientist,Pune,10,Lead,"SQL, AWS, Python, JavaScript",1695105,Bachelors,Large
+Frontend Developer,Hyderabad,9,Lead,"SQL, AWS",1463932,Masters,Medium
+Software Engineer,Delhi,8,Lead,"JavaScript, Java, AWS, SQL",1937679,Bachelors,Startup
+Data Scientist,Mumbai,1,Junior,"React, Java, SQL, Python",1269696,Bachelors,Large
+Backend Developer,Hyderabad,3,Junior,"SQL, Java, JavaScript",961411,Bachelors,Medium
+Frontend Developer,Pune,10,Lead,"Python, JavaScript, AWS",1641162,Masters,Medium
+Backend Developer,Delhi,6,Senior,"JavaScript, Python, AWS",1409765,Masters,Startup
+Software Engineer,Delhi,3,Junior,"JavaScript, Python, React",1386870,Bachelors,Startup
+Frontend Developer,Mumbai,10,Lead,"React, AWS, Python, JavaScript",1757361,Bachelors,Large
+Frontend Developer,Pune,3,Junior,"SQL, Java",900083,Masters,Startup
+Data Scientist,Delhi,7,Lead,"Java, AWS",1947541,Masters,Startup
+Backend Developer,Bangalore,6,Senior,"JavaScript, Java",1474316,Masters,Large
+Backend Developer,Mumbai,9,Lead,"SQL, AWS",2096843,Masters,Large
+Frontend Developer,Mumbai,3,Junior,"AWS, JavaScript, Python",1188293,Masters,Startup
+Software Engineer,Mumbai,2,Junior,"Java, Python, JavaScript, React",1358811,Masters,Medium
+Data Scientist,Hyderabad,10,Lead,"JavaScript, AWS, Python, React",1640957,Bachelors,Startup
+Frontend Developer,Hyderabad,9,Lead,"AWS, JavaScript",1498500,Masters,Large
+Data Scientist,Pune,3,Junior,"Python, Java",1043179,Masters,Startup
+Frontend Developer,Delhi,4,Senior,"JavaScript, AWS",1151227,Masters,Large
+Software Engineer,Bangalore,7,Lead,"Python, AWS, Java, SQL",1590432,Bachelors,Startup
+Software Engineer,Delhi,4,Senior,"Java, AWS",1402493,Masters,Medium
+Data Scientist,Mumbai,3,Junior,"JavaScript, Java, Python",1417908,Masters,Medium
+Software Engineer,Bangalore,5,Senior,"SQL, Python, JavaScript",1323634,Masters,Large
+Data Scientist,Mumbai,4,Senior,"React, AWS",1501393,Masters,Medium
+Frontend Developer,Hyderabad,9,Lead,"Java, Python",1290913,Bachelors,Large
+Software Engineer,Delhi,3,Junior,"JavaScript, Python",1295717,Bachelors,Medium
+Data Scientist,Bangalore,8,Lead,"SQL, React, Python, AWS",1805677,Masters,Startup
+Frontend Developer,Delhi,4,Senior,"AWS, JavaScript",1374220,Bachelors,Startup
+Data Scientist,Delhi,1,Junior,"JavaScript, Java, Python, SQL",1199439,Bachelors,Medium
+Data Scientist,Bangalore,10,Lead,"JavaScript, React",2112201,Masters,Large
+Data Scientist,Bangalore,8,Lead,"Java, SQL, Python, AWS",1715136,Bachelors,Large
+Frontend Developer,Pune,1,Junior,"React, AWS, SQL, JavaScript",773136,Masters,Startup
+Data Scientist,Delhi,8,Lead,"Java, React, JavaScript",1867665,Bachelors,Medium
+Data Scientist,Bangalore,5,Senior,"React, Java",1705424,Masters,Large
+Software Engineer,Hyderabad,4,Senior,"JavaScript, AWS, Java",1022354,Masters,Startup
+Backend Developer,Delhi,3,Junior,"SQL, AWS",1129872,Bachelors,Medium
+Software Engineer,Bangalore,3,Junior,"Python, Java",1334563,Bachelors,Large
+Backend Developer,Bangalore,10,Lead,"SQL, Java, JavaScript, React",2012580,Bachelors,Startup
+Software Engineer,Hyderabad,10,Lead,"SQL, AWS",1604863,Masters,Startup
+Backend Developer,Mumbai,9,Lead,"React, Python",1842258,Masters,Large
+Software Engineer,Mumbai,10,Lead,"React, Python",2060556,Bachelors,Large
+Backend Developer,Delhi,4,Senior,"Java, React, AWS",1442028,Bachelors,Medium
+Software Engineer,Hyderabad,3,Junior,"SQL, React, AWS",1133256,Bachelors,Large
+Frontend Developer,Bangalore,9,Lead,"SQL, Java, JavaScript, React",1789911,Bachelors,Medium
+Data Scientist,Hyderabad,1,Junior,"Python, JavaScript, AWS, SQL",1009456,Masters,Large
+Backend Developer,Hyderabad,7,Lead,"Java, SQL, React",1387444,Bachelors,Startup
+Backend Developer,Mumbai,2,Junior,"SQL, React, Java, Python",1225476,Masters,Medium
+Frontend Developer,Mumbai,5,Senior,"Java, React, JavaScript",1514498,Masters,Startup
+Frontend Developer,Mumbai,10,Lead,"Java, AWS",1904606,Bachelors,Startup
+Data Scientist,Delhi,1,Junior,"Python, SQL, Java, JavaScript",1131177,Masters,Startup
+Data Scientist,Mumbai,6,Senior,"React, JavaScript, Python, Java",1907294,Bachelors,Medium
+Data Scientist,Delhi,1,Junior,"JavaScript, AWS",1161633,Bachelors,Large
+Frontend Developer,Pune,9,Lead,"Python, SQL, React",1560159,Bachelors,Medium
+Software Engineer,Delhi,4,Senior,"JavaScript, SQL",1262765,Bachelors,Large
+Data Scientist,Pune,3,Junior,"SQL, JavaScript, Python, Java",1146011,Masters,Startup
+Backend Developer,Bangalore,9,Lead,"React, Java, Python, JavaScript",1621214,Bachelors,Large
+Data Scientist,Pune,6,Senior,"Python, SQL, Java",1356879,Bachelors,Medium
+Data Scientist,Mumbai,5,Senior,"SQL, React, AWS",1604466,Bachelors,Medium
+Frontend Developer,Delhi,5,Senior,"Python, Java, SQL",1258642,Masters,Startup
+Frontend Developer,Delhi,2,Junior,"React, Python",1010835,Bachelors,Large
+Data Scientist,Pune,10,Lead,"JavaScript, Java, AWS, React",1641567,Bachelors,Startup
+Frontend Developer,Mumbai,4,Senior,"React, SQL",1261098,Bachelors,Medium
+Frontend Developer,Bangalore,4,Senior,"JavaScript, React, SQL, Java",1333050,Masters,Startup
+Frontend Developer,Mumbai,10,Lead,"JavaScript, Python, React",1903240,Masters,Startup
+Data Scientist,Mumbai,3,Junior,"AWS, Python, Java, JavaScript",1448213,Bachelors,Large
+Frontend Developer,Pune,1,Junior,"JavaScript, Java, AWS, React",764993,Bachelors,Medium
+Data Scientist,Bangalore,3,Junior,"SQL, Java, Python, React",1258165,Masters,Medium
+Backend Developer,Hyderabad,1,Junior,"JavaScript, Python, AWS, Java",762279,Bachelors,Large
+Backend Developer,Pune,5,Senior,"Python, Java, React",1234534,Bachelors,Startup
+Backend Developer,Bangalore,1,Junior,"React, Java, AWS, SQL",933034,Masters,Large
+Data Scientist,Pune,2,Junior,"JavaScript, Python",985229,Masters,Large
+Backend Developer,Bangalore,6,Senior,"Java, React, Python",1444586,Masters,Large
+Software Engineer,Delhi,2,Junior,"Python, Java",1177959,Bachelors,Startup
+Data Scientist,Pune,10,Lead,"AWS, SQL, React",1802270,Masters,Startup
+Frontend Developer,Hyderabad,2,Junior,"JavaScript, SQL, AWS",856878,Masters,Medium
+Frontend Developer,Mumbai,6,Senior,"Python, JavaScript, Java",1623752,Bachelors,Startup
+Software Engineer,Bangalore,6,Senior,"Python, JavaScript, AWS",1643110,Masters,Startup
+Backend Developer,Mumbai,8,Lead,"AWS, JavaScript, Python",1770943,Masters,Large
+Software Engineer,Hyderabad,8,Lead,"Java, SQL, Python, AWS",1307618,Masters,Medium
+Backend Developer,Bangalore,2,Junior,"React, JavaScript, Python",1182593,Masters,Large
+Data Scientist,Mumbai,2,Junior,"AWS, Python, Java, JavaScript",1334009,Masters,Medium
+Frontend Developer,Bangalore,9,Lead,"Python, AWS, Java",1823986,Masters,Large
+Software Engineer,Pune,5,Senior,"React, AWS, SQL",1105150,Bachelors,Large
+Software Engineer,Hyderabad,8,Lead,"JavaScript, AWS, React, Python",1361369,Bachelors,Startup
+Software Engineer,Delhi,6,Senior,"AWS, JavaScript",1660763,Masters,Large
